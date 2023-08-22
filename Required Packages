@@ -1,0 +1,9 @@
+Required packages
+
+import sounddevice as sd
+import threading
+import numpy as np
+from scipy.io.wavfile import write
+import keyboard
+import time
+from datetime import datetime
